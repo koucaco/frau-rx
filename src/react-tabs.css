@@ -48,7 +48,7 @@
   display: none;
   height: 90%;
   background: #fff;
-
+  overflow-y: auto;
 }
 
 .react-tabs__tab-panel--selected {
