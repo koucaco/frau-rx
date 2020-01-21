@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frau-rx/static/css/main.0a5d7651.chunk.css",
+    "main.js": "/frau-rx/static/js/main.e1eb1686.chunk.js",
+    "main.js.map": "/frau-rx/static/js/main.e1eb1686.chunk.js.map",
+    "runtime-main.js": "/frau-rx/static/js/runtime-main.2d9392ce.js",
+    "runtime-main.js.map": "/frau-rx/static/js/runtime-main.2d9392ce.js.map",
+    "static/js/2.c07c04a3.chunk.js": "/frau-rx/static/js/2.c07c04a3.chunk.js",
+    "static/js/2.c07c04a3.chunk.js.map": "/frau-rx/static/js/2.c07c04a3.chunk.js.map",
+    "index.html": "/frau-rx/index.html",
+    "precache-manifest.d6430fc8563ca6c511335444d77914b9.js": "/frau-rx/precache-manifest.d6430fc8563ca6c511335444d77914b9.js",
+    "service-worker.js": "/frau-rx/service-worker.js",
+    "static/css/main.0a5d7651.chunk.css.map": "/frau-rx/static/css/main.0a5d7651.chunk.css.map",
+    "static/js/2.c07c04a3.chunk.js.LICENSE": "/frau-rx/static/js/2.c07c04a3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d9392ce.js",
+    "static/js/2.c07c04a3.chunk.js",
+    "static/css/main.0a5d7651.chunk.css",
+    "static/js/main.e1eb1686.chunk.js"
+  ]
+}
