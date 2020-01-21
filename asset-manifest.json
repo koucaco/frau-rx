@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/frau-rx/static/css/main.0a5d7651.chunk.css",
-    "main.js": "/frau-rx/static/js/main.e1eb1686.chunk.js",
-    "main.js.map": "/frau-rx/static/js/main.e1eb1686.chunk.js.map",
+    "main.css": "/frau-rx/static/css/main.63566e8d.chunk.css",
+    "main.js": "/frau-rx/static/js/main.9682451e.chunk.js",
+    "main.js.map": "/frau-rx/static/js/main.9682451e.chunk.js.map",
     "runtime-main.js": "/frau-rx/static/js/runtime-main.2d9392ce.js",
     "runtime-main.js.map": "/frau-rx/static/js/runtime-main.2d9392ce.js.map",
-    "static/js/2.c07c04a3.chunk.js": "/frau-rx/static/js/2.c07c04a3.chunk.js",
-    "static/js/2.c07c04a3.chunk.js.map": "/frau-rx/static/js/2.c07c04a3.chunk.js.map",
+    "static/js/2.f16352c5.chunk.js": "/frau-rx/static/js/2.f16352c5.chunk.js",
+    "static/js/2.f16352c5.chunk.js.map": "/frau-rx/static/js/2.f16352c5.chunk.js.map",
     "index.html": "/frau-rx/index.html",
-    "precache-manifest.d6430fc8563ca6c511335444d77914b9.js": "/frau-rx/precache-manifest.d6430fc8563ca6c511335444d77914b9.js",
+    "precache-manifest.6b9b7caf71fe45ddc4724660e59f9c8f.js": "/frau-rx/precache-manifest.6b9b7caf71fe45ddc4724660e59f9c8f.js",
     "service-worker.js": "/frau-rx/service-worker.js",
-    "static/css/main.0a5d7651.chunk.css.map": "/frau-rx/static/css/main.0a5d7651.chunk.css.map",
-    "static/js/2.c07c04a3.chunk.js.LICENSE": "/frau-rx/static/js/2.c07c04a3.chunk.js.LICENSE"
+    "static/css/main.63566e8d.chunk.css.map": "/frau-rx/static/css/main.63566e8d.chunk.css.map",
+    "static/js/2.f16352c5.chunk.js.LICENSE": "/frau-rx/static/js/2.f16352c5.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.2d9392ce.js",
-    "static/js/2.c07c04a3.chunk.js",
-    "static/css/main.0a5d7651.chunk.css",
-    "static/js/main.e1eb1686.chunk.js"
+    "static/js/2.f16352c5.chunk.js",
+    "static/css/main.63566e8d.chunk.css",
+    "static/js/main.9682451e.chunk.js"
   ]
 }
