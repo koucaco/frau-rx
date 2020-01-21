@@ -1,0 +1,6 @@
+.Results {
+  max-height: 300px;
+  overflow: auto;
+  /* margin: 10px; */
+  padding: 10px;
+}
