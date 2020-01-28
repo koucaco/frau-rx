@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frau-rx/precache-manifest.416636fb21423f339de16c2cc954efd1.js"
+  "/frau-rx/precache-manifest.a2cbd34b72ea80f30768047ea942efcd.js"
 );
 
 self.addEventListener('message', (event) => {

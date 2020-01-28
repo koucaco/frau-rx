@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8fe11ac0125a1e0f66723d803796b6b",
+    "revision": "2fa5c2ef99faa63f4172fb377bd618d0",
     "url": "/frau-rx/index.html"
   },
   {
-    "revision": "9e5b8d323bc01524f5b2",
-    "url": "/frau-rx/static/css/main.63566e8d.chunk.css"
+    "revision": "40a2b280e5a214568caa",
+    "url": "/frau-rx/static/css/main.8c8eab97.chunk.css"
   },
   {
     "revision": "f0ccdc25706bd3462b03",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frau-rx/static/js/2.f16352c5.chunk.js.LICENSE"
   },
   {
-    "revision": "9e5b8d323bc01524f5b2",
-    "url": "/frau-rx/static/js/main.8b25f4e1.chunk.js"
+    "revision": "40a2b280e5a214568caa",
+    "url": "/frau-rx/static/js/main.4e3dd079.chunk.js"
   },
   {
     "revision": "ad3478ffa11b104867d1",
